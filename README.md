@@ -1,3 +1,3 @@
 # EmailSender
-Sending email using smtp server for gmail
-viewing the email using the subject line
+# Sending email using smtp server for gmail
+# Viewing the email using the subject line
